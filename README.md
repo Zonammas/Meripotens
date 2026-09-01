@@ -22,6 +22,7 @@ The vault has six folders. Five form a processing pipeline; the sixth is a refer
 - `06_Source` — the bibliography. Every book, article, video, podcast, or course that feeds a note elsewhere in the vault, with citation tracking down to the page level. Also holds Figures — people studied as subjects in their own right, not consumed material — useful for History, Linguistics, and any field where who said something matters as much as what was said. A Figure note is earned, like a Balance MOC, not created automatically for every name in an `author` field — most authors never need one.
 
 A simple explanation for the structure:
+
 Source → sources.
 
 Power → raw ideas I’ve drawn from the sources.
