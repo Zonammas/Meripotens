@@ -36,7 +36,7 @@ The vault has six folders. Five form a processing pipeline; the sixth is a refer
 
 A simple explanation for the structure:
 
-Source → sources.
+Source → raw materials.
 
 Power → raw ideas I’ve drawn from the sources.
 
