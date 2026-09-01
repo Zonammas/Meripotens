@@ -16,6 +16,13 @@ The vault has six folders. Five form a processing pipeline; the sixth is a refer
 - `04_Development` — one MOC per discipline, generated automatically from Dataview queries. Never edited by hand.
 - `05_Revolution` — fully original work, built by hand, outside the automatic pipeline. The template ships with no query and none is ever added to it, but that doesn't mean Dataview is off-limits here: a user may write their own query, combining disciplines, sub-disciplines, or sources in a way no other layer can. What keeps this from becoming another automated layer is authorship — the system never supplies or suggests that query.
 - `06_Source` — the bibliography. Every book, article, video, podcast, or course that feeds a note elsewhere in the vault, with citation tracking down to the page level. Also holds Figures — people studied as subjects in their own right, not consumed material — useful for History, Linguistics, and any field where who said something matters as much as what was said. A Figure note is earned, like a Balance MOC, not created automatically for every name in an `author` field — most authors never need one.
+- 
+### Extending Templates & Source Types
+The vault ships with baseline templates for common formats (books, articles, courses, videos, etc.). If you want to track source types that don't have a dedicated template — such as whole journal issues, patents, archival documents, or datasets — you don't need to alter the underlying core rules:
+
+1. **Use or Adapt the Article / Source Template:** Copy an existing template (like `Article` or standard `Source`) and save it with your desired name in the `Templates/` folder.
+2. **Preserve Core Frontmatter:** Keep the mandatory `category`, `type`, `status`, `disciplines`, and `citationKey` fields intact so Dataview queries can index them properly.
+3. **Add Domain Fields:** Feel free to introduce custom properties (e.g., `volume`, `issue`, `issn` for journals) as needed. As long as your properties adhere to standard YAML key-value syntax, the vault will seamlessly ingest them.
 
 Open `01_Essence/Start Here.md` first: it lays out the reading path through the documentation, ordered so the system is learned as a single flow. In short, that path runs `Vault Overview.md` → `Vision and Usage Guide.md` → `System Rules.md` → `Property Schema Reference.md` → `Dashboard.md` → `Manifesto.md`.
 
