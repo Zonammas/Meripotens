@@ -4,7 +4,7 @@ Meripotens is an Obsidian vault system for interdisciplinary humanities research
 
 The name comes from Latin: *meritum* (earned) and *potentia* (latent potential). It names the system's two governing principles — structure is earned rather than assumed, and raw potential is respected, protected and unforced, until it earns its place. A link here stays dormant and unresolved until the material behind it has earned that place; nothing is promoted because it might matter, only because it already has.
 
-This is a draft, shared as-is. It reflects one person's working system, not a finished product.
+This is a draft, shared as-is. It reflects one person's working system, not a finished product. Essentially, this system aims to break free from the quagmire of algorithms and statistics and to mobilize human will, even if only slightly. Fundamentally, the system’s purpose is to be surpassed and shaped by the user. This system is designed to enable humans to transcend the mirror that reflects their “Meripotens.” In this system, nothing is set in stone—as long as its philosophy remains intact, anything can be changed. The system is designed for humans; humans were not created for the system.
 
 ## Main Topic
 
