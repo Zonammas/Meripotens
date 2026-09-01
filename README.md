@@ -23,9 +23,13 @@ The vault has six folders. Five form a processing pipeline; the sixth is a refer
 
 A simple explanation for the structure:
 Source → sources.
+
 Power → raw ideas I’ve drawn from the sources.
+
 Balance → concepts formed by recurring ideas.
+
 Development → a broader conceptual view of the field.
+
 Revolution → what I want to say.
 
 ### Extending Templates & Source Types
