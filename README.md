@@ -67,20 +67,21 @@ Revolution unsettles everyone, regardless of where they came from. It is the onl
 
 This is why the system functions less like a tool and more like a mirror. It does not tell anyone what to think, what matters, or what they are capable of. It only reflects, with increasing clarity, how much real thought and real commitment the person using it has actually put in. Someone using it seriously will see that seriousness reflected back, layer by layer. Someone using it carelessly will see that too — not as a judgment, since the Dashboard describes rather than scores, but as an honest picture they cannot easily look away from.
 
-The Mindset Shift: Why These Names Matter
+###The Mindset Shift: Why These Names Matter
+
 Traditional Personal Knowledge Management (PKM) tools borrow their language from 20th-century bureaucracy: Inbox, Projects, Areas, Archives. This vocabulary turns thinking into administrative labor, where notes are tasks to be filed and folders are debts to be cleared.
 
 Meripotens replaces bureaucratic filing with a psychological pipeline that mirrors how deep thought actually evolves:
 
-02_Power (not "Inbox"): An inbox demands to be emptied, triggering guilt when it accumulates. Power treats raw, unstructured capture as unforced potential energy. A high note-count here is not a backlog of administrative debt—it is the critical mass required for true insights to emerge.
+####02_Power (not "Inbox"): An inbox demands to be emptied, triggering guilt when it accumulates. Power treats raw, unstructured capture as unforced potential energy. A high note-count here is not a backlog of administrative debt—it is the critical mass required for true insights to emerge.
 
-03_Balance (not "Folders" or "Topics"): Conventional folders force you to decide what an idea is before you have fully understood it. Balance is where a cluster of Power notes earns its equilibrium. You do not file notes away; you stabilize emergent concepts into hand-crafted Maps of Content (MOCs).
+####03_Balance (not "Folders" or "Topics"): Conventional folders force you to decide what an idea is before you have fully understood it. Balance is where a cluster of Power notes earns its equilibrium. You do not file notes away; you stabilize emergent concepts into hand-crafted Maps of Content (MOCs).
 
-04_Development (not "Categories" or "Taxonomies"): Rigid taxonomies turn a vault into a static museum. Development tracks the organic maturation of whole disciplines through automated queries. It reveals how your knowledge naturally expands without requiring manual administrative maintenance.
+####04_Development (not "Categories" or "Taxonomies"): Rigid taxonomies turn a vault into a static museum. Development tracks the organic maturation of whole disciplines through automated queries. It reveals how your knowledge naturally expands without requiring manual administrative maintenance.
 
-05_Revolution (not "Output" or "Projects"): Output implies a mechanical task on a checklist. Revolution marks the point where automatic scaffolding ends and original synthesis begins. It is the deliberate, uncomfortable space where you confront raw potential and transform gathered insight into a sovereign voice.
+####05_Revolution (not "Output" or "Projects"): Output implies a mechanical task on a checklist. Revolution marks the point where automatic scaffolding ends and original synthesis begins. It is the deliberate, uncomfortable space where you confront raw potential and transform gathered insight into a sovereign voice.
 
-06_Source (not "Bibliography" or "References"): A bibliography treats consumed material as a static list of dead citations. Source treats reading material and figures as living roots. It holds the intellectual lineage that feeds every active thought in the upper layers, maintaining total traceability back to the origin.
+####06_Source (not "Bibliography" or "References"): A bibliography treats consumed material as a static list of dead citations. Source treats reading material and figures as living roots. It holds the intellectual lineage that feeds every active thought in the upper layers, maintaining total traceability back to the origin.
 
 By shifting from administrative filing to conceptual alchemy, the vault stops acting like an electronic filing cabinet and begins operating as an honest cognitive mirror.
 
