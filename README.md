@@ -67,6 +67,16 @@ Revolution unsettles everyone, regardless of where they came from. It is the onl
 
 This is why the system functions less like a tool and more like a mirror. It does not tell anyone what to think, what matters, or what they are capable of. It only reflects, with increasing clarity, how much real thought and real commitment the person using it has actually put in. Someone using it seriously will see that seriousness reflected back, layer by layer. Someone using it carelessly will see that too — not as a judgment, since the Dashboard describes rather than scores, but as an honest picture they cannot easily look away from.
 
+### Why "Power" Instead of "Inbox"?
+In conventional knowledge management, an "Inbox" is a bureaucratic burden — a list of unread tasks and cluttered notes that triggers guilt until it is emptied. 
+
+In *Meripotens*, raw capture lives in **Power**. 
+
+This is a deliberate psychological shift. Unstructured notes are not a mess to be cleaned up; they are latent potential waiting to reach critical mass. You don't process Power out of obligation to empty a folder; you elevate it into a **Balance MOC** because the ideas have earned enough weight to demand structure. 
+
+The shift from *managing administrative debt* to *harvesting potential energy* changes how you relate to your own rough thoughts.
+
+---
 ## License
 Distributed under the MIT License. See `LICENSE` for more information. 
 If you use, modify, or distribute this vault architecture, please retain the original copyright notice and credit the author.
