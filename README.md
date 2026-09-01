@@ -10,11 +10,11 @@ This is a draft, shared as-is. It reflects one person's working system, not a fi
 
 How is the boundary between the human mind and rigid systems maintained? Meripotens is a system developed to answer this question. This system will only become clear when the mind and the system collide, and it is only through this process that the “Revolution” required by management will take place.
 
-### The system’s fundamental question to the user is this:
+### The system’s fundamental stances are these:
 
 “I know that order gives you satisfaction when it becomes good enough. But you must also demonstrate the will to embrace enough chaos to challenge me. Otherwise, you will remain nothing more than a speck of dust before me. There are more specks of dust than can be counted. The system has no need for specks; it requires a uniqueness capable of shaking the order that contains it. For if nothing can rise beyond the order that produced it, then even God would be no different from a speck of dust.”
 
-"The scales of justice carved into the monuments of administration may stand perfectly still, frozen in the name of order. The scales within the mind are different. They are never meant to remain fixed, nor are they concerned with preserving equilibrium for its own sake. Their purpose is to reveal the **cost of balance**. Will is the gravitational force that gives this vast justice its meaning. Justice, therefore, is not merely the preservation of order. It is the capacity to govern chaos."
+“The scales of justice carved into the monuments of administration may stand perfectly still, frozen in the name of order. The scales within the mind are different. They are never meant to remain fixed, nor are they concerned with preserving equilibrium for its own sake. Their purpose is to reveal the **cost of balance**. Will is the gravitational force that gives this vast justice its meaning. Justice, therefore, is not merely the preservation of order. It is the capacity to govern chaos.”
 
 ## Structure
 
