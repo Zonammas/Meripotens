@@ -8,7 +8,7 @@ This is a draft, shared as-is. It reflects one person's working system, not a fi
 
 ## Main Topic
 
-How is the boundary between the human mind and rigid systems maintained? Meripotens is a system developed to answer this question. This system will only become clear when the mind and the system collide, and it is only through this process that the “Revolution” required by management will take place.
+How is the boundary between the human mind and rigid systems maintained? Meripotens is a system developed to answer this question. This system will only become clear when the mind and the system collide, and it is only through this process that the “Revolution” required by management will take place. The fundamental premise behind the system’s creation is “Build a system that does not colonize the way you think.”
 
 ### The system’s fundamental stances are these:
 
