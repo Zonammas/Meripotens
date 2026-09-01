@@ -1,0 +1,1 @@
+This document is a `placeholder`. You don't need to pay attention to it. Once you start taking notes, you can delete this `placeholder` note.
