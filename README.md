@@ -126,7 +126,8 @@ A bibliography treats consumed material as a static list of dead citations. Sour
 
 By shifting from administrative filing to conceptual alchemy, the vault stops acting like an electronic filing cabinet and begins operating as an honest cognitive mirror.
 
-You can proceed by following the system's documentation and review steps, starting with the “Start Here” note in the “Essence” folder.
+#### You can proceed by following the system's documentation and review steps, starting with the “Start Here” note in the “Essence” folder.
+
 ---
 ## License
 Distributed under the MIT License. See `LICENSE` for more information. 
