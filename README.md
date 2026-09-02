@@ -25,7 +25,7 @@ Perhaps the future of PKM is not primarily about storing information better. Som
 
 There is a paradox that seems like my own fallacy, or perhaps it is simply the nature of the system. However, it leaves a unique moment in someone else’s reality. When the system is truly successful, the user isn’t even at the computer. The system loses a user, but the world gains someone who writes their own destiny. That is why the system is designed for humans, but humans are not created for the system—they are created to transcend it.
 
-It's more reasonable for a system to be designed to show everyone what humans can achieve, not for adaptation. Could Meripotens be an exemplary system in this respect? I think it's not really possible to see this with the naked eye. At least, as the person asking this question, I have to experience it myself. Perhaps I have already realized my "Meripotens" by designing it. The best proof must be that the person who makes the revolution is someone other than oneself. So, it's my turn to wait; let those next in line cause the revolution.
+It's more reasonable for a system to be designed to show everyone what humans can achieve, not for adaptation. Could Meripotens be an exemplary system in this respect? I think it's not really possible to see this with the naked eye. At least, as the person asking this question, I have to experience it myself. Perhaps I have already realized my "Meripotens" by designing it. The best proof must be that the person who makes the revolution is someone other than oneself. So, it's my turn to wait; let those next in line cause the revolution. Because this Government needs its own Revolution.
 
 ## Structure
 
