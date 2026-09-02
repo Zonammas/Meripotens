@@ -23,7 +23,7 @@ Perhaps the future of PKM is not primarily about storing information better. Som
 
 **“The most important revolution may be this: amid all this Order and Chaos, bringing a smile to a child’s face is the true Revolution of Meripotens — Earned Potential — in the real world. Not merely an idea, but potential made real through human will.”**
 
-There is a paradox that seems like my own fallacy, or perhaps it is simply the nature of the system. Beyond that, it leaves a unique moment in someone else’s reality. When the system is truly successful, the user isn’t even at the computer. The system loses a user, but the world gains a writer. That is why the system is designed for humans, but humans are not created for the system—they were created to transcend it.
+There is a paradox that seems like my own fallacy, or perhaps it is simply the nature of the system. Beyond that, it leaves a unique moment in someone else’s reality. When the system is truly successful, the user isn’t even at the computer. The system loses a user, but the world gains someone who writes their own destiny. That is why the system is designed for humans, but humans are not created for the system—they are created to transcend it.
 
 ## Structure
 
