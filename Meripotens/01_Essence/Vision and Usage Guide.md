@@ -45,7 +45,8 @@ One caveat keeps the two modes honest: an early Revolution MOC is a target, not 
 #### Note:
 
 When a “Power” note is a “move-to-balance,” it may link to more than one balance MOC. Whether to activate all of them or only those linked to one’s own target depends on the user’s relationship with their vault. For example:
-Suppose Balance_A_MOC receives many links from “Power” notes, while Balance_B_MOC has received only one link from among those notes. If the user intends to proceed with A, there is no problem, but if they proceed with B, the scarcity of “Power” notes could create an issue regarding research. This is entirely a matter of user preference.
+
+Suppose Balance_A_MOC receives many links from “Power” notes, while Balance_B_MOC has received only one link from among those notes. If the user intends to proceed with A, there is no problem, but if they proceed with B, the scarcity of “Power” notes could create an issue regarding research. This is entirely a matter of user preference. No path is wrong or better than another; they simply require different efforts depending on a person’s inclination.
 
 ### AI and Tool Assistance
 The vault imposes no restrictions on how material is captured or pre-processed. Using artificial intelligence or external tools to summarize sources, extract key concepts, or generate initial drafts inside Power notes is fully valid—it accelerates the intake of raw material. 
