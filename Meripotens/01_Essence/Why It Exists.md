@@ -22,6 +22,10 @@ But honesty is required, because honesty is the whole point of this stance: such
 
 Perhaps that is all there is to say to the world: as the tools that make everything easier keep multiplying, you will need, more than ever, something that protects difficulty. Because the thing you actually think cannot be made easy for you. It can only be earned.
 
+The simple story of undeserved potential:
+
+Sometimes people forget and don't want to pay attention; In fact, people ignore it and don't even care. Days pass and she tries to find a hat in his room. She can't manage it and leaves the room sadly. Then she decides to go out with his friends. At that moment she remembers that she gave her hat to her friend. Meripotency does exactly that. Power may not always have deserved to be remembered, but that doesn't mean it was worthless. Still, she creates her own unique memory with that meeting, and her friend brings her the hat and jokes about it.
+
 ## Related Documents
 
 [[Manifesto]] states the principles this rests on. [[Vault Overview]] gives the structure that carries them.
