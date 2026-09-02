@@ -29,12 +29,13 @@ There is a paradox that seems like my own fallacy, or perhaps it is simply the n
 
 The vault has six folders. Five form a processing pipeline; the sixth is a reference layer.
 
+- `00_Source` — the bibliography. Every book, article, video, podcast, or course that feeds a note elsewhere in the vault, with citation tracking down to the page level. Also holds Figures — people studied as subjects in their own right, not consumed material — useful for History, Linguistics, and any field where who said something matters as much as what was said. A Figure note is earned, like a Balance MOC, not created automatically for every name in an `author` field — most authors never need one.
 - `01_Essence` — the vault's own constitution. No content notes live here, only the rules, schema, and reasoning that govern everything else. Start reading here.
 - `02_Power` — the entry point for every new note. Unstructured on purpose.
 - `03_Balance` — MOCs, not flat notes, created by hand once a cluster of Power notes clearly represents one concept, theory, or school of thought.
 - `04_Development` — one MOC per discipline, generated automatically from Dataview queries. Never edited by hand.
 - `05_Revolution` — fully original work, built by hand, outside the automatic pipeline. The template ships with no query and none is ever added to it, but that doesn't mean Dataview is off-limits here: a user may write their own query, combining disciplines, sub-disciplines, or sources in a way no other layer can. What keeps this from becoming another automated layer is authorship — the system never supplies or suggests that query.
-- `06_Source` — the bibliography. Every book, article, video, podcast, or course that feeds a note elsewhere in the vault, with citation tracking down to the page level. Also holds Figures — people studied as subjects in their own right, not consumed material — useful for History, Linguistics, and any field where who said something matters as much as what was said. A Figure note is earned, like a Balance MOC, not created automatically for every name in an `author` field — most authors never need one.
+
 
 A simple explanation for the structure:
 
