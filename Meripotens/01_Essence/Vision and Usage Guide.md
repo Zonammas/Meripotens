@@ -18,7 +18,7 @@ Words like "discipline" and "concept" describe the vault's original use, not a b
 
 ## The Six Layers, in Practice
 
-Essence holds no content notes. It is the vault's own constitution: the rules, the schema, the vocabulary, and this guide. Nothing about Art History or Philosophia belongs here.
+Essence holds no content notes. It is the vault's own constitution: the rules, the schema, the vocabulary, and this guide.
 
 Power is the entry point for everything. A note here can be a single sentence, a half-formed reaction to a book, or a paragraph copied from a lecture. Nothing is expected to be correct, complete, or well-organized. The only requirement is that it exists and is captured before it is lost.
 
