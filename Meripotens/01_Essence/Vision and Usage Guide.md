@@ -42,7 +42,7 @@ This describes the emergent path, where Revolution comes last, once something wo
 
 One caveat keeps the two modes honest: an early Revolution MOC is a target, not a shortcut. It does not exempt the work from passing through the real layers — sources are still logged, Power notes still captured, Balance MOCs still earned. The declared goal pulls the pipeline forward; it does not replace it. A Revolution note used to skip Power and Balance entirely is not goal-directed work, only unearned writing wearing the layer's name.
 
-#### Not:
+#### Note:
 
 When a “Power” note is a “move-to-balance,” it may link to more than one balance MOC. Whether to activate all of them or only those linked to one’s own target depends on the user’s relationship with their wallet. For example:
 Suppose Balance_A_MOC receives many links from “Power” notes, while Balance_B_MOC has received only one link from among those notes. If the user intends to proceed with A, there is no problem, but if they proceed with B, the scarcity of “Power” notes could create an issue regarding research. This is entirely a matter of user preference.
