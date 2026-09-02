@@ -24,7 +24,7 @@ Perhaps that is all there is to say to the world: as the tools that make everyth
 
 The simple story of undeserved potential:
 
-Sometimes people forget and don't want to pay attention; In fact, people ignore it and don't even care. Days pass and she tries to find a hat in his room. She can't manage it and leaves the room sadly. Then she decides to go out with his friends. At that moment she remembers that she gave her hat to her friend. Meripotency does exactly that. Power may not always have deserved to be remembered, but that doesn't mean it was worthless. Still, she creates her own unique memory with that meeting, and her friend brings her the hat and jokes about it.
+Sometimes people forget and don't want to pay attention; In fact, people ignore it and don't even care. Days pass and she tries to find a hat in her room. She can't manage it and leaves the room sadly. Then she decides to go out with his friends. At that moment she remembers that she gave her hat to her friend. Meripotency does exactly that. Power may not always have deserved to be remembered, but that doesn't mean it was worthless. Still, she creates her own unique memory with that meeting, and her friend brings her the hat and jokes about it.
 
 ## Related Documents
 
