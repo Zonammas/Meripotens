@@ -19,7 +19,7 @@ Perhaps the future of PKM is not primarily about storing information better. Som
 
 ### The system’s fundamental stances are these:
 
-“I know that order gives you satisfaction when it becomes good enough. But you must also demonstrate the will to embrace enough chaos to challenge me. Otherwise, you will remain nothing more than a speck of dust before me. There are more specks of dust than can be counted. The system has no need for specks; it requires a uniqueness capable of shaking the order that contains it. For if nothing can rise beyond the order that produced it, then even God would be no different from a speck of dust.”
+“I know that order brings people satisfaction when it becomes good enough. But they must also demonstrate the will to embrace chaos enough to challenge the system. Otherwise, they will never amount to more than a speck of dust. There are countless specks of dust. The system needs nothing more than what it already has; it needs a uniqueness capable of shaking the order that surrounds it. Because if nothing can transcend the order that created it, then even God would be no different from a speck of dust.”
 
 **“The most important revolution may be this: amid all this Order and Chaos, bringing a smile to a child’s face is the true Revolution of Meripotens — Earned Potential — in the real world. Not merely an idea, but potential made real through human will.”**
 
