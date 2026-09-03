@@ -107,6 +107,10 @@ Traditional Personal Knowledge Management (PKM) tools borrow their language from
 
 Meripotens replaces bureaucratic filing with a psychological pipeline that mirrors how deep thought actually evolves:
 
+#### 00_Source (not "Bibliography" or "References"): 
+
+A bibliography treats consumed material as a static list of dead citations. Source treats reading material and figures as living roots. It holds the intellectual lineage that feeds every active thought in the upper layers, maintaining total traceability back to the origin.
+
 #### 02_Power (not "Inbox"): 
 
 An inbox demands to be emptied, triggering guilt when it accumulates. Power treats raw, unstructured capture as unforced potential energy. A high note-count here is not a backlog of administrative debt—it is the critical mass required for true insights to emerge.
@@ -122,10 +126,6 @@ Rigid taxonomies turn a vault into a static museum. Development tracks the organ
 #### 05_Revolution (not "Output" or "Projects"): 
 
 Output implies a mechanical task on a checklist. Revolution marks the point where automatic scaffolding ends and original synthesis begins. It is the deliberate, uncomfortable space where you confront raw potential and transform gathered insight into a sovereign voice.
-
-#### 06_Source (not "Bibliography" or "References"): 
-
-A bibliography treats consumed material as a static list of dead citations. Source treats reading material and figures as living roots. It holds the intellectual lineage that feeds every active thought in the upper layers, maintaining total traceability back to the origin.
 
 By shifting from administrative filing to conceptual alchemy, the vault stops acting like an electronic filing cabinet and begins operating as an honest cognitive mirror.
 
